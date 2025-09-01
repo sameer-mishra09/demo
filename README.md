@@ -2,4 +2,4 @@
 2nd repo
 
 
-author - sameer mishra
+my name - sameer mishra
